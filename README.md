@@ -14,5 +14,12 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: trying to figure out fun facts 🙃
 - 👨🏻‍💻 while not coding: running, listening to podcasts, reading, sometimes cooking
+
+---
+
+## Open Source iOS Apps
+
+- 🎨 [**Draw Idea**](https://github.com/mdo91/draw-idea) - A creative canvas for sketching and visualizing concepts.
+- 📶 [**Tik-Tac-iOS**](https://github.com/mdo91/tik-tac-iOS) - A classic Tic-Tac-Toe game featuring local multiplayer via Bluetooth connectivity.
   
 

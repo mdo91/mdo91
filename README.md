@@ -31,3 +31,4 @@ Now, I’m a founder and lead software engineer @ [DamasTechnologies](https://Da
 ## Open Source macOS Apps
 
 - 🎬 [**Run Lottie**](https://github.com/mdo91/macos-run-lottie) - A lightweight macOS app to preview `.json` and `.lottie` animations with play/pause, loop, and speed controls.
+- 🎞️ [**App Store Preview Converter**](https://github.com/mdo91/video-preview-appstore) - Converts iOS screen recordings into App Store–ready preview `.mp4` files (duration/audio/H.264 settings aligned with App Store Connect expectations).

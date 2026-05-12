@@ -2,7 +2,7 @@
 
 More about me: I’m a software engineer. Earlier in my career, I worked as an iOS Engineer in the fintech industry @Procenne, where I helped build the Istanbulkart app, which has over 1 million monthly active users in Istanbul, Türkiye. I also built an NFC SDK from scratch for iOS that allows users to top up transportation smart cards.
 
-I then relocated to Bruchsal, Germany, and joined the eVTOL company @Volocopter as a Mobile Tech Lead, where I worked on a customer booking app and a pilot briefing app.
+I then relocated to Bruchsal, Germany, and joined the eVTOL company @Volocopter as a Mobile Tech Lead, where I worked on the customer booking app and the pilot briefing app.
 
 Now, I’m a founder and lead software engineer @ [DamasTechnologies](https://DamasTechnologies.com), building our own mobile apps and also providing training in team building and strategic decision-making.
 
